@@ -24,10 +24,15 @@ For example, pip install opencv-python pip install fer]
 ```
 </br>
 
+<h2>License</h2>
+<p>This project is released under the MIT License. See the <a href="">LICENSE</a> file for more information.</p>
+</br>
+
 <h2>Programming Languages Used</h2>
 <div align="center">
   <img aligh="center" src="https://skillicons.dev/icons?i=python" alt="Languages and Tools">
 </div>
+</br>
 
 <h2>Developers</h2>
 <ul>

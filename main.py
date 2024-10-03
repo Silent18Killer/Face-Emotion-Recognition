@@ -2,7 +2,7 @@ import cv2
 from fer import FER
 import os
 
-def detect_emotion_in_image(image_path):
+def detect_emotion_in_image(image_path, width=800, height=600):
     image = cv2.imread(image_path)
     if image is None:
         print("Failed to load image. Please check the file path.")
@@ -10,7 +10,7 @@ def detect_emotion_in_image(image_path):
 
     detector = FER()
     emotion, score = detector.top_emotion(image)
-    cv2.putText(image, f'Emotion: {emotion}', (50, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2, cv2.LINE_AA)
+    cv2.putText(image, f'Emotion: {emotion}', (50, 50), cv2.FONT_HERSHEY_SIMPLEX, 0.8, (255, 255, 255), 2, cv2.LINE_AA)
     cv2.imshow('Emotion Detection', image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()

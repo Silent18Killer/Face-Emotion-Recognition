@@ -14,7 +14,7 @@
 pip install opencv-python fer
 
 [Note: If error is met while installing, then run the install command separately.
-For example, pip install opencv-python pip install fer]
+For example, pip install opencv-python, pip install fer]
 ```
 
 2. Run the Python file using the following command:

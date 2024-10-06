@@ -2,6 +2,13 @@
 
 
 <h2>Project Preview</h2>
+<p><img src="https://github.com/Silent18Killer/Face-Emotion-Recognition/blob/main/Preview/fear-1.png" alt="fear-1" width="48%"/>
+<img src="https://github.com/Silent18Killer/Face-Emotion-Recognition/blob/main/Preview/happy-1.png" alt="happy-1" width="48%"/>
+<img src="https://github.com/Silent18Killer/Face-Emotion-Recognition/blob/main/Preview/happy-2.png" alt="happy-2" width="48%"/>
+<img src="https://github.com/Silent18Killer/Face-Emotion-Recognition/blob/main/Preview/angry-2.png" alt="angry-2" width="48%"/>
+<img src="https://github.com/Silent18Killer/Face-Emotion-Recognition/blob/main/Preview/sad-2.png" alt="sad-2" width="48%"/>
+<img src="https://github.com/Silent18Killer/Face-Emotion-Recognition/blob/main/Preview/surprise-2.png" alt="surprise-2" width="48%"/></p>
+<br/>
 
 <h2>Explanation PPT</h2>
 <p>Here is the link to the explanation ppt. <a href="">Click here</a></p>

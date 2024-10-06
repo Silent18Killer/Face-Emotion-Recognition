@@ -1,5 +1,6 @@
 # Facial Expression Recognition
-
+<p>INTRODUCTION:</p>
+Facial Expression Recognition (FER) is a field within computer vision and artificial intelligence (AI) that involves detecting and interpreting human facial expressions from digital images or video streams. The goal of FER systems is to automatically identify and classify emotions or affective states such as happiness, sadness, anger, surprise, fear, disgust, and neutral expressions. These systems can be applied in various real-world applications, ranging from human-computer interaction to healthcare, marketing, and security. FER project works to design, implement, and evaluate a system that can accurately detect and classify facial expressions in real-time or from static images. The project involves collecting or utilizing an existing dataset of facial expressions, building a machine learning model (such as a CNN), and fine-tuning the model to improve accuracy and performance. This could include tackling specific challenges such as handling facial occlusions, lighting variations, and ensuring real-time processing for practical applications.In summary, Facial Expression Recognition is an exciting and rapidly advancing field with significant implications across various industries. A successful FER project will contribute to creating more human-aware technologies, improving user experiences, and potentially enhancing various sectors like healthcare, security, and human-computer interaction.
 
 <h2>Project Preview</h2>
 <p>For Live Camera:</p>

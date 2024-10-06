@@ -37,5 +37,5 @@ For example, pip install opencv-python, pip install fer]
 <h2>Developers</h2>
 <ul>
   <li><a href="https://github.com/Silent18Killer">Silent18Killer</a></li>
-  <li><a href="https://github.com/RanitaTripathy">RanitaTripathy</a></li>
+  <li><a href="https://github.com/RanitaTripathy">Tripathy-ranita</a></li>
 </ul>

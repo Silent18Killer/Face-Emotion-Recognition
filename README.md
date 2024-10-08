@@ -10,6 +10,10 @@ Enter 1 for Live Camera Emotion Detection.Press q to quit the live feed.
 Enter 2 for Image File Emotion Detection. If you choose this option, you'll need to provide the full path to the image file you want to analyze.</p>
 
 <h2>Project Preview</h2>
+<p><img src="https://github.com/Silent18Killer/Face-Emotion-Recognition/blob/main/Preview/Normal%20Window.png" alt="normal-window" width="48%"/>
+<p>You'll be prompted to choose between two options:</p>
+<p>Enter 1 for Live Camera Emotion Detection.</p>
+<p>Enter 2 for Image File Emotion Detection. If you choose this option, you'll need to provide the full path to the image file you want to analyze.
 <p>For Live Camera:</p>
 <p><img src="https://github.com/Silent18Killer/Face-Emotion-Recognition/blob/main/Preview/fear-1.png" alt="fear-1" width="48%"/>
 <img src="https://github.com/Silent18Killer/Face-Emotion-Recognition/blob/main/Preview/happy-1.png" alt="happy-1" width="48%"/>

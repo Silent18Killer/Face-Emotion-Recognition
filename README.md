@@ -29,6 +29,7 @@ Enter 2 for Image File Emotion Detection. If you choose this option, you'll need
 </br>
 
 <h2>Installation</h2>
+<p>This code will work in VScode or PyCharm</p>
 1. Run the following commands for the installation of the requireds libraries:
 
 ```
